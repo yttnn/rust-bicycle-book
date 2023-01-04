@@ -3,6 +3,7 @@
     "./02/hello/Cargo.toml",
     "./02/rpn/Cargo.toml",
     "./03/bitonic-sorter/Cargo.toml",
-    "./06/leap-year/Cargo.toml"
+    "./06/leap-year/Cargo.toml",
+    "./07/ex07/Cargo.toml"
   ],
 }
